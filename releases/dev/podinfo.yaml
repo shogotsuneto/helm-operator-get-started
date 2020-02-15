@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: stsuneto/podinfo
-      tag: dev-sllc8xk7
+      tag: dev-qkfy4pbq
     replicaCount: 1
     hpa:
       enabled: false
